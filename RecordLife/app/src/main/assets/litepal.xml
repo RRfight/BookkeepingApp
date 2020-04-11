@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<litepal>
+<dbname value="RecordLife"></dbname>
+<version value="3"></version>
+<list>
+    <mapping class="com.exmaple.recordlife.entity.Journal"></mapping>
+    <mapping class="com.exmaple.recordlife.entity.ImageMsg"></mapping>
+    <mapping class="com.exmaple.recordlife.entity.Record"></mapping>
+    <mapping class="com.exmaple.recordlife.entity.RecordType"></mapping>
+</list>
+</litepal>
