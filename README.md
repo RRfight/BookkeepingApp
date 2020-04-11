@@ -18,8 +18,10 @@ records表：   记录消费明细
 
 3:功能展示
 
-![Image text](https://github.com/RRfight/BookkeepingApp/blob/master/display1.png)   
-![Image text](https://github.com/RRfight/BookkeepingApp/blob/master/display2.png)   
-![Image text](https://github.com/RRfight/BookkeepingApp/blob/master/display3.png)   
-![Image text](https://github.com/RRfight/BookkeepingApp/blob/master/display4.png)   
-![Image text](https://github.com/RRfight/BookkeepingApp/blob/master/display5.png)   
+![Image text](https://github.com/RRfight/BookkeepingApp/blob/master/display1.png) 
+![Image text](https://github.com/RRfight/BookkeepingApp/blob/master/display2.png)
+
+![Image text](https://github.com/RRfight/BookkeepingApp/blob/master/display3.png)
+![Image text](https://github.com/RRfight/BookkeepingApp/blob/master/display4.png)
+
+![Image text](https://github.com/RRfight/BookkeepingApp/blob/master/display5.png)
