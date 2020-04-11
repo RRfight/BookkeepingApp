@@ -7,3 +7,12 @@
 2：数据库设计
 
 ![Image text](https://github.com/RRfight/BookkeepingApp/blob/master/databaseTable.png)
+
+journal表：   存储用户日志内容和记录日期
+images表：    存储日志中的图片
+recordType表：存储消费类型
+records表：   记录消费明细
+
+3:功能展示
+
+
